@@ -1,4 +1,4 @@
-<img width="920" alt="image" src="https://github.com/championel/Host-Static-Website-using-AWS-S3/assets/95048371/38511b7e-720b-45f2-ac1d-1c4a76308005">Hosting a static website on Amazon Web Services (AWS) Simple Storage Service (S3) is a cost-effective and scalable solution. This report outlines the process of hosting a static website on AWS S3 and highlights key features and benefits.
+Hosting a static website on Amazon Web Services (AWS) Simple Storage Service (S3) is a cost-effective and scalable solution. This report outlines the process of hosting a static website on AWS S3 and highlights key features and benefits.
  Amazon S3 is a highly durable and scalable object storage service offered by AWS. It allows users to store and retrieve any amount of data at any time. S3 is commonly used to host static websites due to its simplicity, low cost, and reliability.
 
 Steps to Host a Static Website on AWS S3:
